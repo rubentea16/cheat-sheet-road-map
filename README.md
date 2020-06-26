@@ -4,8 +4,8 @@
 - [BecomingHumanCheatSheets](cheat-sheet/BecomingHumanCheatSheets.pdf)
 - [Bokeh](cheat-sheet/bokeh.pdf)
 - [Datatable](cheat-sheet/datatable.pdf)
-- [Importing_Data](cheat-sheet/importing_data.pdf)
-- [Jupyter_Notebook](cheat-sheet/jupyter_notebook.pdf)
+- [Importing Data](cheat-sheet/importing_data.pdf)
+- [Jupyter Notebook](cheat-sheet/jupyter_notebook.pdf)
 - [Keras](cheat-sheet/keras.pdf)
 - [Matplotlib](cheat-sheet/matplotlib.pdf)
 - [Numpy](cheat-sheet/numpy.pdf)
@@ -19,6 +19,7 @@
 - [Spark SQL](cheat-sheet/spark_sql.pdf)
 - [Tidyverse](cheat-sheet/tidyverse.pdf)
 - [Xts](cheat-sheet/xts.pdf)
+- [Data Science for Business Leader](cheat-sheet/business_leader.pdf)
 
 
 ## NLP Road Map
